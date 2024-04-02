@@ -18,3 +18,4 @@ elif(unit == "f" or unit == "F") :
     value = FahrenhiettoCelsius(temp)
     print(f"{temp}°F is equal to {value:.2f}°C")
 
+# Finished
