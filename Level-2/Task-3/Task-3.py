@@ -30,3 +30,6 @@ def password_strength(password):
 
 password = input("Enter your password: ")
 print("Password strength:", password_strength(password))
+
+
+# Finished
