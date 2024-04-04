@@ -24,3 +24,5 @@ def number_guessing(low, high):
 st = int(input("Enter the starting Sequence to play Game : "))
 end = int(input("Enter the Ending Sequence to play Game : "))
 number_guessing(st,end)
+
+# Finished
