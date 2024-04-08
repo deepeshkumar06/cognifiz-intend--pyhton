@@ -7,3 +7,5 @@ revstr = rev(str)
 
 print("The orginal String is : ",str)
 print("The reversed String is : ",revstr)
+
+#Finished
